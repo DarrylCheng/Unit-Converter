@@ -1,0 +1,62 @@
+Temperature,Kelvin,-,null,,+
+Temperature,Celsius,*,null,,*
+Temperature,Fahrenheit,*,null,,/
+Data,Bits,/,8,,*
+Data,Bytes,*,1,,*
+Data,Kilobytes,*,1000,,/
+Data,Megabytes,*,1000000,,/
+Data,Gigabytes,*,1000000000,,/
+Data,Terabytes,*,1.00E+12,,/
+Data,Petabytes,*,1.00E+15,,/
+Length,Millimeter,*,0.001,,/
+Length,Centimeter,*,0.01,,/
+Length,Meter,*,1,,*
+Length,Kilometer,*,1000,,/
+Length,Inch,/,39.37,,*
+Length,Feet,/,3.2808,,*
+Length,Yard,/,1.0936,,*
+Time,Millisecond,/,1000,,*
+Time,Second,*,1,,*
+Time,Minute,*,60,,/
+Time,Hour,*,3600,,/
+Time,Day,*,86400,,/
+Area,Square meter,*,1,,*
+Area,Square kilometer,*,1000000,,/
+Area,Acre,/,0.00024711,,*
+Area,Square Inch,/,1550,,*
+Area,Square Foot,/,10.764,,*
+Area,Square Yard,/,1.196,,*
+Area,Hectare,/,0.0001,,*
+Energy,Joules,*,1,,*
+Energy,Kilojoules,/,0.001,,*
+Energy,Food calories,*,4.184,,/
+Fuel,Kilometer/liter,*,1,,*
+Fuel,MPG(US),*,0.425,,/
+,,,,,
+Power,Watt,*,1,,*
+Power,Kilowatt,*,1000,,/
+Power,Horse power,*,745.7,,/
+,,,,,
+Power,BTU,/,3.414,,*
+Speed,Kilometer/hour,*,1,,*
+Speed,Feet/second,*,1.09728,,/
+Speed,Feter/second,/,0.2778,,*
+Speed,Knot,/,0.54,,*
+Speed,Mile/hour,/,0.62137,,*
+Volume,US Gallon,*,1,,*
+Volume,US Quart,/,4,,*
+Volume,US Pint,/,8,,*
+Volume,US Cup,/,16,,*
+Volume,US Oz,*,0.0078125,,/
+Volume,Cubic meter,*,264.17,,/
+Volume,Liter,*,0.26417,,/
+Volume,MilliLiter,*,0.00026417,,/
+Volume,Cubic Foot,/,0.13368,,*
+Volume,Cubic inch,*,0.004329,,/
+Weight,Kilogram,*,1,,*
+Weight,Gram,*,0.001,,/
+Weight,MilliGram,/,1000000,,*
+Weight,Pound,/,2.2046,,*
+Weight,Ounces,/,35.274,,*
+Weight,Short tons (US),/,0.0011023,,*
+Weight,Metric Ton,*,1000,,/
